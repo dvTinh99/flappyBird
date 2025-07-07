@@ -39,7 +39,7 @@ var bird = function(game){
         //load image right here
         img1.src ='image/1.png';
         img2.src ='image/2.png';
-        img3.src ='image/3.jpg';
+        img3.src ='image/3.png';
 
         this.images.push(img1);
         this.images.push(img2);
